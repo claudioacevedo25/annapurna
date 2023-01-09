@@ -4,7 +4,7 @@ import styles from "./differential.module.css";
 export const Differential = () => (
   <section className={styles.container}>
     <div className={styles.title}>
-      <h3>Nuestro Diferencial</h3>
+      <h3>NUESTRO DIFERENCIAL</h3>
       <h2>¿Qué nos define?</h2>
     </div>
     <div className={styles.icons}>

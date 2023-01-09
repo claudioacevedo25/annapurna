@@ -18,6 +18,9 @@
 }
 
 @media (min-width: 700px) {
+  .container {
+    padding: 0 25rem;
+  }
   .title {
     align-self: flex-start;
   }
@@ -25,10 +28,6 @@
   .icons {
     flex-direction: row;
     gap: 8rem;
-  }
-
-  .container {
-    padding: 0 16rem;
   }
 
   .image__container img {
