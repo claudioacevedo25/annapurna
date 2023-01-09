@@ -1,7 +1,7 @@
 import Head from "next/head";
 import { Header } from "../../molecules/header";
 import { Content } from "../../molecules/content";
-import { Differential } from "../../molecules/diferential";
+import { Differential } from "../../molecules/differential";
 import { Products } from "../../molecules/products";
 
 export const Landing = () => (
