@@ -1,6 +1,7 @@
 import Head from "next/head";
 import { Header } from "../../molecules/header";
 import { Content } from "../../molecules/content";
+import { Differential } from "../../molecules/diferential";
 
 export const Landing = () => (
   <>
@@ -12,5 +13,6 @@ export const Landing = () => (
     </Head>
     <Header />
     <Content />
+    <Differential />
   </>
 );
