@@ -1,5 +1,6 @@
 import Head from "next/head";
 import { Header } from "../../molecules/header";
+import { Content } from "../../molecules/content";
 
 export const Landing = () => (
   <>
@@ -10,5 +11,6 @@ export const Landing = () => (
       <link rel="icon" href="/favicon.ico" />
     </Head>
     <Header />
+    <Content />
   </>
 );
