@@ -4,7 +4,7 @@ import { Content } from "../../molecules/content";
 import { Differential } from "../../molecules/differential";
 import { Products } from "../../molecules/products";
 import { Contact } from "../../molecules/contact";
-// import { WhatsAppWidget } from "react-whatsapp-widget";
+import { WhatsAppWidget } from "react-whatsapp-widget";
 import "react-whatsapp-widget/dist/index.css";
 
 export const Landing = () => (
@@ -21,13 +21,13 @@ export const Landing = () => (
     <Products />
     <Contact />
 
-    {/* <WhatsAppWidget
+    <WhatsAppWidget
       phoneNumber="+543517524770"
       companyName="Agencia de viajes"
       replyTimeText="Normalmente responde en pocos minutos"
       message="Hola, ¿cómo estás? Gracias por contactarnos. Por favor deja tu consulta y te estaremos respondiendo a la brevedad."
       inputPlaceHolder="Escribe tu mensaje"
       sendButtonText="Enviar consulta"
-    /> */}
+    />
   </>
 );
