@@ -39,6 +39,20 @@
   margin-top: 2rem;
 }
 
+.moreInformation {
+  all: unset;
+  background-color: #0659b3;
+  padding: 1rem;
+  border-radius: 1rem;
+  color: #fff;
+  font-size: 1.25rem;
+  cursor: pointer;
+}
+
+.moreInformation:hover {
+  background-color: #022d69;
+}
+
 @media (min-width: 700px) {
   .container {
     flex-direction: row;
