@@ -6,7 +6,6 @@ export const Contact = () => (
     <footer className={styles.container}>
       <div className={styles.title}>
         <h3>CONTACTO</h3>
-        <h2>¿Seguimos conectados?</h2>
       </div>
 
       <div className={styles.email}>
@@ -16,18 +15,26 @@ export const Contact = () => (
       <div className={styles.contact}>
         <a href="">Contactar</a>
         <a href="">Hacer un reclamo</a>
-        <a href="https://www.argentina.gob.ar/servicio/presentar-una-denuncia-contra-una-agencia-de-viajes">
+        <a
+          href="https://www.argentina.gob.ar/servicio/presentar-una-denuncia-contra-una-agencia-de-viajes"
+          target="_blank"
+        >
           Denuncia contra una agencia
         </a>
       </div>
 
       <div className={styles.agency}>
         <Image src="/ministerio.png" alt="ministerio" width="200" height="65" />
-        <a href="">Oficina Virtual Habilitada</a>
+        <a
+          href="https://drive.google.com/file/d/1ZDnjvn65lpqCwJNKqclltiPTK7-PaxRR/view"
+          target="_blank"
+        >
+          Oficina Virtual Habilitada
+        </a>
         <a href="">Habilitación Licencia Provisoria</a>
       </div>
       <p className={styles.cuil}>
-        Travels, una EVT de Fire Eats SAS, CUIT xxxxx, habilitada bajo
+        Travels, una EVT de Fire Eats SAS, CUIT 30717236277, habilitada bajo
         resolución 141/82
       </p>
     </footer>

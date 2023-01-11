@@ -11,12 +11,18 @@
 }
 
 .logo {
-  background-color: #0659b3;
+  background-color: #fff;
   opacity: 0.9;
   border-radius: 2rem;
   padding: 1rem;
+  position: relative;
   height: 21rem;
   width: 14rem;
+}
+
+.logo img {
+  position: unset !important;
+  object-fit: cover;
 }
 
 .location {
