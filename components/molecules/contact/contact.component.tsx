@@ -10,7 +10,7 @@ export const Contact = () => (
 
       <div className={styles.email}>
         <Image src="/mail.svg" width="30" height="30" alt="email" />
-        <h3>info@annapurna.com.ar</h3>
+        <h3>annapurna.cba@gmail.com</h3>
       </div>
       <div className={styles.contact}>
         <a href="">Contactar</a>
