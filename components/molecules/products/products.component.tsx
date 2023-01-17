@@ -7,7 +7,6 @@ export const Products = () => (
     <section className={styles.container}>
       <div className={styles.title}>
         <h3>¿QUÉ OFRECEMOS?</h3>
-        <h2>Productos</h2>
       </div>
       <div className={styles.icons}>
         {ELEMENT_PRODUCTS.map(({ key, src, title }) => (

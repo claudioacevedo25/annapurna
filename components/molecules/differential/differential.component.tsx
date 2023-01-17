@@ -6,8 +6,7 @@ export const Differential = () => (
   <Fade left>
     <section className={styles.container}>
       <div className={styles.title}>
-        <h3>NUESTRO DIFERENCIAL</h3>
-        <h2>¿Qué nos define?</h2>
+        <h3>¿QUÉ NOS DEFINE?</h3>
       </div>
       <div className={styles.icons}>
         {ELEMENT_ICONS.map(({ key, src, title }) => (

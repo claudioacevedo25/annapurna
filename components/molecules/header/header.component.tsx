@@ -26,7 +26,7 @@ export const Header = () => {
       </Fade>
       <Fade left>
         <div className={styles.names}>
-          <h1>AnnaPurna Travels</h1>
+          <h1>Annapurna Travels</h1>
           <h2>Empresa de viajes y turismo </h2>
           <button onClick={handleScroll} className={styles.moreInformation}>
             Más información

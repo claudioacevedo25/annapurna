@@ -1,23 +1,18 @@
 const ELEMENT_PRODUCTS = [
   {
-    key: 1,
-    src: "/products/1.jpg",
-    title: "Experiencia",
-  },
-  {
     key: 2,
-    src: "/products/2.jpg",
-    title: "Sabores del mundo ",
+    src: "/img/group.jpeg",
+    title: "Experiencias grupales",
   },
   {
     key: 3,
-    src: "/products/3.jpg",
-    title: "Clases privadas",
+    src: "/img/single.jpeg",
+    title: "Experiencias individuales",
   },
   {
     key: 4,
-    src: "/products/4.jpg",
-    title: "Experiancias y  aventuras ",
+    src: "/img/adventure.jpeg",
+    title: "Aventuras ",
   },
 ];
 

@@ -13,8 +13,18 @@ export const Contact = () => (
         <h3>annapurna.cba@gmail.com</h3>
       </div>
       <div className={styles.contact}>
-        <a href="">Contactar</a>
-        <a href="">Hacer un reclamo</a>
+        <a
+          href="https://docs.google.com/forms/d/e/1FAIpQLSdOT9Vtghz-doIHcDSK_dgLC7fNqxgP8wg52IKT8PqH58eBRg/viewform"
+          target="_blank"
+        >
+          Contactar
+        </a>
+        <a
+          href="https://docs.google.com/forms/d/e/1FAIpQLSdOT9Vtghz-doIHcDSK_dgLC7fNqxgP8wg52IKT8PqH58eBRg/viewform"
+          target="_blank"
+        >
+          Hacer un reclamo
+        </a>
         <a
           href="https://www.argentina.gob.ar/servicio/presentar-una-denuncia-contra-una-agencia-de-viajes"
           target="_blank"

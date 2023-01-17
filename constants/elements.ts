@@ -1,19 +1,19 @@
 const MAIN_CONTENT = [
   {
     key: 1,
-    src: "/us.jpg",
+    src: "/img/us.jpeg",
     title: "¿QUIÉNES SOMOS?",
-    subtitle: "Enamorados de nuetras tierras",
+    subtitle: "Enamorados de lo que hacemos",
     content:
-      "Grupo de jóvenes emprendedores, enamorados de nuestra provincia. Nuestra agencia se especializa en turismo receptivo enogastronómico. Sabemos cómo hacer para que tengas la mejor experiencia acompañado de profesionales apasionados por nuestros vinos, nuestra comida y nuestra naturaleza imponente.",
+      "Grupo de jóvenes emprendedores, enamorados de lo que hacemos. De la pasión y el amor surge nuestra agencia especializada en turismo receptivo. Queremos que tengas una experiencia única, donde vas a poder conocer todos los sentidos de cada lugar que visites.",
   },
   {
     key: 2,
-    src: "/nature.jpg",
+    src: "/nature.webp",
     title: "¿NUESTRA MISIÓN?",
-    subtitle: "Un lugar sustentable",
+    subtitle: "Economía circular y un lugar sustentable",
     content:
-      "Creemos en que podemos lograr un cambio en nuestra matriz productiva, generando trabajo genuino sin dañar nuestra naturaleza ni comprometer nuestros recursos. Creemos en el turismo como la alternativa para un futuro sustentable en nuetras tierras.",
+      "Queremos cuidar nuestro planeta, por eso sabemos que podemos lograr que tengas la mejor experiencia sin dañar nuestro ambiente y generando trabajos genuinos.",
   },
 ];
 
