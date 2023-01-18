@@ -29,11 +29,16 @@
   }
 
   .container {
-    padding: 8rem 25rem;
+    padding: 8rem 2rem;
   }
 
   .image__container img {
     width: 14rem;
     height: 10rem;
+  }
+}
+@media (min-width: 1280px) {
+  .container {
+    padding: 8rem 15rem;
   }
 }

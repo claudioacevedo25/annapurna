@@ -19,7 +19,7 @@
 
 @media (min-width: 700px) {
   .container {
-    padding: 0 25rem;
+    padding: 0 2rem;
   }
   .title {
     align-self: flex-start;
@@ -33,5 +33,10 @@
   .image__container img {
     width: 5rem;
     height: 5rem;
+  }
+}
+@media (min-width: 1280px) {
+  .container {
+    padding: 0 15rem;
   }
 }

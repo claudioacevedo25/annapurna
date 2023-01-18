@@ -21,7 +21,6 @@
   .container {
     display: flex;
     flex-direction: column;
-    padding: 8rem 25rem;
     gap: 6rem;
   }
   .content {
@@ -31,8 +30,8 @@
   }
 
   .content img {
-    width: 30rem;
-    height: 20rem;
+    width: 22rem;
+    height: 15rem;
   }
   .text {
     display: flex;
@@ -42,5 +41,18 @@
 
   .reverse {
     flex-direction: row-reverse;
+  }
+}
+
+@media (min-width: 1280px) {
+  .container {
+    padding: 8rem 15rem;
+  }
+}
+
+@media (min-width: 820px) {
+  .content img {
+    width: 30rem;
+    height: 20rem;
   }
 }

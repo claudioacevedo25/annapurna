@@ -5,7 +5,7 @@ const MAIN_CONTENT = [
     title: "¿QUIÉNES SOMOS?",
     subtitle: "Enamorados de lo que hacemos",
     content:
-      "Grupo de jóvenes emprendedores, enamorados de lo que hacemos. De la pasión y el amor surge nuestra agencia especializada en turismo receptivo. Queremos que tengas una experiencia única, donde vas a poder conocer todos los sentidos de cada lugar que visites.",
+      "De la pasión y el amor surge nuestra agencia especializada en turismo receptivo. Queremos que tengas una experiencia única, donde vas a poder conocer todos los sentidos de cada lugar que visites.",
   },
   {
     key: 2,
